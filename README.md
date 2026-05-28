@@ -10,3 +10,4 @@ Topics:
 - Events
 - Mapping
 - Simple storage contracts
+Practicing Solidity smart contracts and Ethereum development.
